@@ -1,0 +1,1 @@
+Al hacer POST a /reportes con el JSON de infraestructura, el servidor lo guardó en el array y respondió confirmando con el reporte registrado y su id. Luego, al hacer GET a /reportes, el servidor devolvió la lista completa de reportes guardados en memoria, mostrando el reporte que se había registrado anteriormente.
