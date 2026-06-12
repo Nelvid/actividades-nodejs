@@ -1,0 +1,5 @@
+uname -a: muestra información del sistema operativo, como el nombre del kernel, la versión, la arquitectura (x86_64) y el nombre del equipo (DESKTOP-6CJP56K).
+
+whoami: muestra el nombre del usuario que está usando la terminal actualmente (Emanuel).
+
+Es útil conocer esta información cuando se administra un servidor porque permite saber qué sistema y versión se está usando (para instalar programas compatibles), y también identificar con qué usuario se está trabajando, lo cual es importante para controlar permisos y evitar que cualquiera ejecute comandos sensibles.
