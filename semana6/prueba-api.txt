@@ -1,0 +1,11 @@
+Respuesta del servidor:
+{
+
+"estado": "Datos recibidos",
+
+"nombre": "Maria",
+
+"mensaje": "Hola comunidad"
+
+}
+El servidor recibió correctamente los datos enviados (nombre y mensaje), los procesó y respondió confirmando con un JSON que dice "Datos recibidos", devolviendo el mismo nombre y mensaje que se enviaron. Esto demuestra que req.body está leyendo bien la información del cliente.
