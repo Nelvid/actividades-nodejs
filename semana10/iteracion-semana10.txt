@@ -1,0 +1,10 @@
+Las dos tareas que haría primero son:
+1. Registrar una incidencia.
+2. Consultar reportes.
+
+Son las más importantes porque sin poder registrar y consultar reportes, el sistema no tiene ninguna utilidad para la comunidad.
+
+Definición de terminado:
+- Funciona correctamente sin errores.
+- Fue probada con al menos un caso real.
+- Quedó registrada en Git con su commit correspondiente.
