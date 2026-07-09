@@ -1,0 +1,22 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar los reportes de incidencias que registran los ciudadanos en la plataforma.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- reporte_id
+- estado
+- fecha
+
+Propósito:
+Registrar el estado de cada reporte para hacer seguimiento a si fue atendido o no.
